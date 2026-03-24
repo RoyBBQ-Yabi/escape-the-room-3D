@@ -5,7 +5,7 @@
 ## 開發資訊
 * 開發環境：Unity 2023.2 ( C# )
 * 開發人員：王程豐 ( Cheng-Feng Wang )
-* 核心技術：uGUI、Component-Oriented Design、NavMesh AI、Prefab 系統
+* 核心技術：uGUI、Component-Oriented Design、NavMesh AI、Prefab 等系統
 * 開發日期：2024.7.10
 
 ## 遊戲機制與設計邏輯
