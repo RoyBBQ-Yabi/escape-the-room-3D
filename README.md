@@ -27,7 +27,7 @@
 # **遊戲操作**
 * **操作方式**：使用 `WASD` 移動、`Space` 跳躍。
 * **快速體驗**：為方便測試已將各關卡通關所需禮物數量調整為 **3 個**。
-* **下載試玩**：[點此前往 Google Drive 下載壓縮檔並執行 (Escape the room.exe) 進行遊玩](https://drive.google.com/drive/folders/1YRVbZKdqxATcKZP2rdHF_j6gVRTB7wkQ?usp=drive_link)
+* **下載試玩**：[點此前往 Google Drive 下載壓縮檔並執行 (Escape the room.exe) 進行遊玩。](https://drive.google.com/drive/folders/1YRVbZKdqxATcKZP2rdHF_j6gVRTB7wkQ?usp=drive_link)
 * **注意事項**：目前版本為原型開發階段，若遊玩時出現 AI 巡邏或傷害判定等現象，還請見諒。
 
 ## **學習心得**
