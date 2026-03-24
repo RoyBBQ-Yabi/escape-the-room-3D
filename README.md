@@ -3,10 +3,10 @@
 玩家需要在關卡中躲避敵人的追擊及避免觸發陷阱，同時蒐集指定數量的禮物以開啟傳送門通關。
 
 ## 開發資訊
-開發環境：Unity 2023.2 (C#)
-開發人員：王程豐 (Cheng-Feng Wang)
-核心技術：uGUI、Component-Oriented Design、NavMesh AI、Prefab 系統
-開發日期：2024.7.10
+* 開發環境：Unity 2023.2 ( C# )
+* 開發人員：王程豐 ( Cheng-Feng Wang )
+* 核心技術：uGUI、Component-Oriented Design、NavMesh AI、Prefab 系統
+* 開發日期：2024.7.10
 
 ## 遊戲機制與設計邏輯
 
