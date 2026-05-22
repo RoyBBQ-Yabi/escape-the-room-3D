@@ -29,7 +29,8 @@
 * **操作方式**：使用 `WASD` 移動、`Space` 跳躍。
 * **快速體驗**：為方便測試已將各關卡通關所需禮物數量調整為 **3 個**。
 * **下載試玩**：[點此前往 Google Drive 下載壓縮檔並執行 (Escape the room.exe) 進行遊玩。](https://drive.google.com/drive/folders/1YRVbZKdqxATcKZP2rdHF_j6gVRTB7wkQ?usp=drive_link)
-* **注意事項**：因 Unity 版本問題專案暫時無法開啟因此無法給予 itch.io 是玩連結深感抱歉，若遊玩時出現 AI 巡邏或傷害判定等現象，還請見諒。
+* **注意事項**：因 Unity 版本問題專案暫時無法開啟因此無法給予 itch.io 是玩連結深感抱歉，
+  <br>　 　 　　 若遊玩時出現 AI 巡邏或傷害判定等現象，還請見諒。
 
 ## **學習心得**
 透過此專案經驗，實踐了 Unity 的相關功能實作以及其邏輯思考製作的模式，並學會應用現今的 **AI 工具( ChatGPT/Gemini )** 幫助建構程式與除錯以提升遊戲的開發效率，並體會到從事並實踐興趣的滿足感。
